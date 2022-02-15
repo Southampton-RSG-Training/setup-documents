@@ -1,3 +1,5 @@
+## Install OpenRefine ##
+
 For this lesson you will need [OpenRefine](http://openrefine.org/) (formerly GoogleRefine) and a web browser.
 Download the most recent version of [OpenRefine](http://openrefine.org/download.html) for your operating system,
 then follow the instructions below.

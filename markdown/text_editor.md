@@ -1,4 +1,4 @@
-### Text Editor
+## Text Editor ##
 
 A text editor is the piece of software you use to view and write code. If you
 have a preferred text editor, please use it. Suggestions for text editors are,

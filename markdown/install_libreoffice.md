@@ -1,3 +1,5 @@
+## Install LibreOffice ##
+
 To interact with spreadsheets, you can use various software - for example Microsoft Excel,
 LibreOffice, Gnumeric, OpenOffice.org, Google Spreadsheets. Commands may differ a bit between programs,
 but the general ideas for thinking about spreadsheets are the same.
