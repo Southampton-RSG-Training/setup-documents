@@ -2,7 +2,11 @@
 
 IDEs: PyCharm, Spyder, VS Code
 
-We use Python 3*. The “Anaconda3” package provides everything Python-related you will need for the workshop. To install [Anaconda](https://www.anaconda.com/products/individual), follow the instructions below.
+We use Python 3*. The “Anaconda3” package provides everything Python-related you will need for the workshop. 
+To install [Anaconda](https://www.anaconda.com/products/individual), follow the instructions below.
+
+Once the Anaconda installation is finished you will be asked if you want the installer to initialize Anaconda3 by 
+running conda init? You should select yes.
 
 Some old research projects may be in Python 2 but Python 2 has been retired and new projects should be in Python 3.
 
@@ -39,7 +43,13 @@ python
 
 
 ### Mac OS X
+
+#### Mac OS Intel
 Download the latest Anaconda Mac OS X installer. Double-click the .pkg file and follow the instructions.
+
+#### Mac OS M1
+If you have a M1 Mac you need a specific version of Anaconda follow the link below. 
+[M1 Compatible Anaconda](https://repo.anaconda.com/archive/Anaconda3-2022.05-MacOSX-arm64.pkg)
 
 ### Linux
 Download the latest Anaconda Linux Installer. Install via the terminal like this (you will need to change the version number to the latest version):
