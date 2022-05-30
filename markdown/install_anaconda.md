@@ -9,6 +9,35 @@ Some old research projects may be in Python 2 but Python 2 has been retired and 
 ### Windows
 Download the latest Anaconda Windows installer. Double-click the installer and follow the instructions. When asked “Add Anaconda to my PATH environment variable”, answer “yes”. After it’s finished, close and reopen any open terminals to reload the updated PATH and allow the installed Python to be found.
 
+Please test the python install open GitBash (or your favorite terminal) and run the following command to verify that the installation was successful.
+
+{: .bash}
+~~~
+cd ~
+python
+~~~
+
+You can then type the following to exit:
+{: .python}
+~~~
+quit()
+~~~
+
+{: .callout}
+~~~
+In some cases GitBash will hang on this command and not launch the Python interpreter. 
+In this case close and reopen git bash and issue the following commands:
+~~~
+
+{: .bash}
+~~~
+cd ~
+echo 'alias python="winpty python.exe"' >> .bashrc
+source .bashrc
+python
+~~~
+
+
 ### Mac OS X
 Download the latest Anaconda Mac OS X installer. Double-click the .pkg file and follow the instructions.
 

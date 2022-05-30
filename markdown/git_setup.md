@@ -16,3 +16,8 @@ To use Git you must install the Apple Command Line Tools.  You can obtain these 
 - If prompted, choose to allow downloads from developer.apple.com
 - Open the downloaded dmg archive from the Downloads folder
 - Double-click the Command Line Tools.pkg icon to install
+
+#### Linux
+Git comes pre-installed on most Linux distributions. You can test if it's installed by running `git --version`. 
+If it's not installed, you can install it by running `sudo apt-get install git` or `sudo yum install git`, depending on 
+your distribution.
