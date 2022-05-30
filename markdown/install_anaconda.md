@@ -49,6 +49,7 @@ Download the latest Anaconda Mac OS X installer. Double-click the .pkg file and 
 
 #### Mac OS M1
 If you have a M1 Mac you need a specific version of Anaconda follow the link below. 
+
 [M1 Compatible Anaconda](https://repo.anaconda.com/archive/Anaconda3-2022.05-MacOSX-arm64.pkg)
 
 Once the Anaconda installation is finished you will be asked if you want the installer to initialize Anaconda3 by
