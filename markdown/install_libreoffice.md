@@ -16,7 +16,7 @@ as it can open Excel spreadsheets, which is the format of the data we will work 
 - Install LibreOffice
 - Once the installer is downloaded, double click on it and LibreOffice should install.
 
-### Mac OS X
+### MacOS
 
 - Download the Installer
   - Install LibreOffice by going to [the installation page](https://www.libreoffice.org/download/libreoffice-fresh/). The version for Mac should automatically be selected. Click Download Version X.X.X (whichever is the most recent version). You will go to a page that asks about a donation, but you do not need to make one. Your download should begin automatically.
